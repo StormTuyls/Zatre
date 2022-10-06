@@ -1,0 +1,89 @@
+.btnVak:hover{
+	-fx-background-color: navy;
+}
+
+.btnVakWit {
+	-fx-background-color: white; 
+	-fx-border-color: black;
+}
+
+.btnVakGrijs {
+	-fx-background-color: grey; 
+	-fx-border-color: black;
+
+}
+
+.lblScorebladKolomTitels {
+	-fx-border-color: black;
+	-fx-font-size: 18.0;
+	-fx-font-family: "impact";
+	-fx-padding: 3;
+		
+}
+
+.lblScorebladTitel{
+	-fx-font-family: "Tahoama";
+	-fx-font-weight: NORMAL;
+	-fx-font-size: 20.0;
+}
+
+.vakDisabled:disabled{
+	-fx-background-color:green;
+	-fx-border-color: black;
+	-fx-opacity:1.0;
+	-fx-text-fill: white;
+}
+
+.vakSelected:selected{
+	-fx-background-color: yellow; 
+	-fx-border-color: black;
+	-fx-text-fill: white
+}
+
+.steenOud:disabled{
+	-fx-background-color:orange;
+	-fx-border-color: black;
+	-fx-opacity:1.0;
+	-fx-text-fill: white;
+}
+
+.steenDefault{
+	-fx-background-color: green; 
+	-fx-border-color: black;
+	-fx-text-fill: white; 
+	-fx-font-size: 40
+}
+
+
+
+.steenSelected:selected{
+	-fx-background-color: red; 
+	-fx-border-color: black;
+	-fx-text-fill: white; 
+	-fx-font-size: 40
+}
+ .btnEndTurnStartSpel{
+	-fx-background-color: #FEDD00; 
+	-fx-text-fill: black; 
+}
+
+  .btnEndTurnDefault{
+	-fx-background-color: black; 
+	-fx-text-fill: white; 
+	-fx-font-size: 15;
+	-fx-background-radius: 20;
+	-fx-underline: true;
+	-fx-font-weight: bold;
+}
+
+.scorebordLay
+{
+	-fx-font-family: "browning";
+	-fx-font-weight: bold;
+	-fx-font-size: 12;
+	
+	
+	
+}
+
+
